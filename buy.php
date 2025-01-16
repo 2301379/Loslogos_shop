@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="top-bar">
-            <a href="index.php">
+            <a href="index.html">
                 <span class="site-title">𝓛𝓸𝓼𝓵𝓸𝓰𝓸𝓼</span>
             </a>
             <a href="cart_view.php">
