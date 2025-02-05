@@ -30,6 +30,7 @@ try {
     <link rel="stylesheet" href="./css/ghome.css">
 </head>
 
+/
 <body>
     <div class="container">
         <div class="top-bar">
